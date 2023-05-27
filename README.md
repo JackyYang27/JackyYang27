@@ -25,9 +25,9 @@ Here are some ideas to get you started:
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>   <!-- 不  同裝置上不會跑掉-->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?  family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,700,0,0" />  <!--google fonts-->
-        <title>楊雲杰's Web Pages</title>
 	</head>
 	<body>
-       <h1>大家好!<h1>
+	 <h1>楊雲杰's Web Pages</h1>
+       <h2>大家好!<h2>
 	</body>
 </html>
